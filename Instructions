@@ -1,0 +1,8 @@
+Command to save code changes:
+javac -d ./ src/Main.java src/rc6.java
+
+Command to perform encryption:
+java Main -e text key enc
+
+Command to perform decryption:
+java Main -d enc key output
