@@ -5,7 +5,7 @@
 ### Program arguments:
 
 1. __-e__  Encryption mode with paths to text file and key file.
-2. __-d__ Decryption mode with paths to encrypted text file and key file
+2. __-d__ Decryption mode with paths to encrypted text file and key file.
 
 ### commands:
 1. __ java Main -e text key enc |  __text__ = file path to plaint text; __key__ = file path to key text; __enc__ = encrytped text file name.
