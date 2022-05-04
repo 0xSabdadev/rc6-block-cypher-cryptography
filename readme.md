@@ -17,6 +17,6 @@ __Command to perform encryption:__ java Main -e text key enc
 
 __Command to perform decryption:__ java Main -d enc key output
 
-Good converter from HEX, DEC to ASCII : https://www.branah.com/ascii-converter
+Good converter from HEX, DEC to ASCII : https://www.branah.com/ascii-converter.
 
 
